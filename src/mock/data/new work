@@ -1,3 +1,7 @@
 test something
 do something
+<<<<<<< HEAD
 多个文件进行测试
+=======
+
+>>>>>>> dda6d1f (合并commit)
