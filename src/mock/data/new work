@@ -4,4 +4,8 @@ do something
 多个文件进行测试
 =======
 
+<<<<<<< HEAD
 >>>>>>> dda6d1f (合并commit)
+=======
+
+>>>>>>> 56750a1 (feat(data): 选多条的commit来进行cherry-pick)
